@@ -1,0 +1,12 @@
+
+The current, I_r, at the receiving end: 1154.700538  -36.869898
+
+The voltage, V_r, at the receiving end: 288675.134595  0.000000
+
+The current, I_s, at the sending end: 903.112705  -17.699618
+
+The voltage, V_r, at the sending end: 359984.180011  15.576237
+
+The Complex power at the sending end: 975318859.776665  33.275855
+
+The Real power losses of the transmission line: 15404264.625859  

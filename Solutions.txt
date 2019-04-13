@@ -1,0 +1,77 @@
+
+Rated power at the receiving end: 2000.000000 VA
+
+Rated voltage at the receiving end: 735.000000 V
+
+Power factor at the receiving end: 0.800000
+
+Lagging if 1, Leading if 2, Unity if 3 at the receiving end: 1
+
+Length of the transmission line: 400 km
+
+ACSR used in the transmission line is: Bobolink 
+
+Transmission line model: Nominal Pi
+
+Transmission line is single: 
+
+The distance between phases A and B of the transmission line: 10 m
+
+The distance between phases B and C of the transmission line: 10 m
+
+The distance between phases C and A of the transmission line: 10 m
+
+Number of bundles of each phase in the transmission line: 4
+
+The GMRL of the conductor: 0.207284 m
+
+The GMRC of the conductor: 0.219834 m
+
+The inductance per km per phase of the transmission line: 0.000775 H/km
+
+The capacitance per km per phase of the transmission line: 0.000000014565 F/km
+
+The resistance per km per phase of the transmission line: 0.042502 Ohms/km
+
+The conductance per km per phase of the transmission line: 0.000000 S/km
+
+The impedance per km per phase of the transmission line: 0.010625 0.292262i  Ohm/km
+
+The admittance per km per phase of the transmission line: 0.000000000000 0.000005490734i  S/km
+
+The total impedance per phase of the transmission line: 3.893378 111.972451i Ohm
+
+The total admittance per phase of the transmission line: 0.000002 0.002245i S
+
+The characteristic impedance of the transmission line: 230.750675 -4.193193i Ohm
+
+The propagation constant of the transmission line: 0.001267 angle  1.552626
+
+The propagation constant multiplied by the length of the transmission line: 0.506880 angle 1.552626
+
+The Parameter A: 0.874353     Angle: 0.292927 degrees
+
+The Parameter B: 112.040119   Angle: 88.008579 degrees
+
+The Parameter C: 0.002104     Angle: 90.090704 degrees
+
+The Parameter D: 0.874353     Angle: 0.292927 degrees
+
+The current, I_r, at the receiving end: 1571.021141 < -36.869898  A
+
+The voltage, V_r, at the receiving end: 424.352448 < 0.000000  V
+
+The current, I_s, at the sending end: 1104.175099 < 3.846956  A
+
+The voltage, V_r, at the sending end: 501.119580 < 16.098577  V
+
+The Complex power at the sending end: 1659.971286 < 12.251620  VA
+
+Sending-end Line-to-Line Voltage magnitude: 867.964574 kV
+The Real power losses of the transmission line: 22.165615  W
+
+The Effeciency of the transmission line: 98.633579  percent
+
+The Power Factor at the sending end: 0.977225  
+
+The Voltage Regulation of the transmission line: 35.060420  percent

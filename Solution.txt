@@ -1,0 +1,84 @@
+
+Rated power at the receiving end: 70000000
+
+Rated voltage at the receiving end: 325000
+
+Power factor at the receiving end: 0.850000
+
+Lagging if 1, Leading if 2, Unity if 3 at the receiving end: 1
+
+Length of the transmission line: 300
+
+ACSR used in the transmission line is: Warwing 
+
+Transmission line model: Nominal Pi
+
+Transmission line is single: 
+
+The distance between phases A and B of the transmission line: 10
+
+The distance between phases B and C of the transmission line: 10
+
+The distance between phases C and A of the transmission line: 10
+
+Number of bundles of each phase in the transmission line: 1
+
+GMD of the transmission line: 10.000000
+
+The GMR of the subconductor: 0.019800
+
+The outside diameter of the conductor: 0.609000
+
+The ohm/km of the conductor: 0.216735
+
+The GMRL of the conductor: 0.006035
+
+The GMRC of the conductor: 0.007734
+
+The inductance per km per phase of the transmission line: 0.001483
+
+The capacitance per km per phase of the transmission line: 0.000000007760
+
+The resistance per km per phase of the transmission line: 0.216735
+
+The conductance per km per phase of the transmission line: 4.000000
+
+The impedance per km per phase of the transmission line: 0.216735 0.558909i
+
+The admittance per km per phase of the transmission line: 0.000000000000 0.000002925563i
+
+The total impedance per phase of the transmission line: 61.864250 164.195163i
+
+The total admittance per phase of the transmission line: 0.000004 0.000889i
+
+The characteristic impedance of the transmission line: 444.942447 -83.250230i
+
+The propagation constant of the transmission line: 0.001324 angle  1.385832
+
+The propagation constant multiplied by the length of the transmission line: 0.397289 angle 1.385832
+
+The Parameter A: 0.927602     Angle: 1.719762 degrees
+
+The Parameter B: 175.462922   Angle: 69.354962 degrees
+
+The Parameter C: 0.000856     Angle: 90.550363 degrees
+
+The Parameter D: 0.927602     Angle: 1.719762 degrees
+
+The current, I_r, at the receiving end: 124.352366  -31.788331
+
+The voltage, V_r, at the receiving end: 187638.837487  0.000000
+
+The current, I_s, at the sending end: 142.278382  46.308114
+
+The voltage, V_r, at the sending end: 192165.706201  5.532380
+
+The Complex power at the sending end: 82023077.269758  -40.775734
+
+The Real power losses of the transmission line: 2613757.518643  
+
+The Effeciency of the transmission line: 95.791983  
+
+The Power Factor at the sending end: 0.757272  
+
+The Voltage Regulation of the transmission line: 10.405751  
